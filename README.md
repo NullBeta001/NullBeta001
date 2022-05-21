@@ -1,9 +1,11 @@
 ## Olá, eu sou o Fábio Oliveira
 
+<summary><b>⚡ Github Stats</b></summary>
+
 <div align="center">
   <a href="https://github.com/NullBeta001">
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NullBeta001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullBeta001&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NullBeta001&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullBeta001&layout=compact&langs_count=7&theme=radical"/>
   </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -32,3 +34,10 @@
 ![Snake animation](https://github.com/NullBeta001/NullBeta001/blob/output/github-contribution-grid-snake.svg)
     
 </div>
+  
+  <summary><b>🔥 Github Streaks</b></summary>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=NullBeta001&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="NullBeta001" /></p>
+
+<p align="center"> 
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NullBeta001" alt="NB" /></a>
+ </p>
