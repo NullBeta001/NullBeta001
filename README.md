@@ -26,4 +26,6 @@
   <a href="https://www.reddit.com/user/NullBeta001" target="_blank"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" target="_blank"></a>
   <a href="https://pt.stackoverflow.com/users/289948/null-beta" target="_blank"><img src="	https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" target="_blank"></a>
  
+![Snake animation](https://github.com/NullBeta001/NullBeta001/blob/output/github-contribution-grid-snake.svg)
+    
 </div>
