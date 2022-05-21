@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/NullBeta001">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NullBeta001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullBeta001&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api?username=NullBeta001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullBeta001&layout=compact&langs_count=7&theme=dracula"/>
   </div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Fabio-Js" height="30" width="100" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
