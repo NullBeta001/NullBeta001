@@ -21,7 +21,7 @@
   ##
   
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NullBeta001&theme=github-compact)](https://github.com/NullBeta001/github-readme-activity-graph)
+![Asmit's GitHub activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=NullBeta001&theme=github-compact)
   
   <div> 
   <a href="https://www.instagram.com/fabio_oliveira_17/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
