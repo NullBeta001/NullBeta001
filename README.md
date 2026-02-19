@@ -1,19 +1,15 @@
-## Olá, eu sou o Fábio Oliveira 👋
-Senior Frontend Engineer | React (4+ yrs) • Next.js • Angular • TypeScript • AWS
+## 👋 Hi, I'm Fábio Oliveira
+
+💻 Senior Frontend Engineer with 5+ years building real-world SaaS and high-scale web applications  
+⚛️ 4+ years specializing in React, Next.js and modern frontend architectures  
+🧠 Strong in TypeScript, performance optimization and scalable UI systems  
+⚙️ Full-stack capable: Node.js, REST APIs, authentication flows (JWT, EntraID)  
+☁️ Cloud experience with AWS (containerized & production environments)  
+🇧🇷 Based in Brazil | Working remotely with US-based teams  
+🌐 Portfolio: https://www.nullbeta.com  
+📫 Open to remote Frontend and Full-Stack opportunitie
 
 <details>
-  <summary><b>⚡ GitHub Stats</b></summary>
-  <br/>
-
-  <div align="center">
-    <a href="https://github.com/NullBeta001">
-      <img height="180em" width="45%"
-        src="https://github-readme-stats.vercel.app/api?username=NullBeta001&show_icons=true&theme=radical&include_all_commits=true" />
-      <img height="180em" width="45%"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=NullBeta001&layout=compact&langs_count=7&theme=radical" />
-    </a>
-  </div>
-
   <br/>
 
   <div align="center">
