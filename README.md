@@ -4,7 +4,7 @@
 
 I build production web platforms end to end: frontend, APIs, data and cloud infrastructure. 5+ years shipping SaaS products, 3+ years integrating LLMs into real products. Based in Brazil, working remotely with US-based teams.
 
-🌐 [nullbeta.com](https://www.nullbeta.com) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-nb) · ✍️ [dev.to](https://dev.to/nullbeta)
+🌐 [nullbeta.com.br](https://nullbeta.com.br) · 💼 [LinkedIn](https://www.linkedin.com/in/fabio-oliveira-nb) · ✍️ [dev.to](https://dev.to/nullbeta)
 
 ---
 
